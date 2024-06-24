@@ -56,8 +56,6 @@ Si tienes algún problema o duda con respecto a esta guía o a la modificación 
 
 Por favor, ten en cuenta que este proyecto se mantiene con la intención de ser un recurso útil y profesional. Cualquier contribución o sugerencia para mejorar es siempre bienvenida.
 
-Gracias por usar esta guía y modificación para utilizar Wiiflow Retro.
-
 # Créditos
 
 - Creador y código fuente del WiiFlow Lite original: https://github.com/Fledge68/WiiFlow_Lite
@@ -66,4 +64,6 @@ Gracias por usar esta guía y modificación para utilizar Wiiflow Retro.
 
 - Autores de todos los links proporcionados anteriormente.
 
-- Kevin Adán Zamora.
+- Modificación realizada por Kevin Adán Zamora.
+
+Gracias por usar esta guía y modificación para utilizar Wiiflow Retro.
