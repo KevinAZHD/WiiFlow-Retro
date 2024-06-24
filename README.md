@@ -3,7 +3,7 @@ Una modificación de la aplicación "WiiFlow Lite" para tener tu propia zona rec
 
 # Enlace de descarga
 
-https://www.mediafire.com/file/qa0r7dxkgflgh6l/
+https://www.mediafire.com/file/akowgxshndu7p1h/
 
 # Guía para configurar tu Wiiflow Retro
 
