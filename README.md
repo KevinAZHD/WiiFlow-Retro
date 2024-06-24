@@ -66,4 +66,4 @@ Gracias por usar esta guía y modificación para utilizar Wiiflow Retro.
 
 - Autores de todos los links proporcionados anteriormente.
 
-- KevinAZ.
+- Kevin Adán Zamora.
