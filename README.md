@@ -1,11 +1,11 @@
 # WiiFlow-Retro
-Una modificación de la app WiiFlow para tener tu propia zona recreativa en tu Nintendo Wii.
+Una modificación de la aplicación "WiiFlow Lite" para tener tu propia zona recreativa en tu Nintendo Wii.
 
-# Enlance de descarga
+# Enlace de descarga
 
 https://www.mediafire.com/file/qa0r7dxkgflgh6l/
 
-# Guía para configurar Wiiflow
+# Guía para configurar tu Wiiflow Retro
 
 ## Preparación inicial
 
@@ -56,11 +56,11 @@ Si tienes algún problema o duda con respecto a esta guía o a la modificación 
 
 Por favor, ten en cuenta que este proyecto se mantiene con la intención de ser un recurso útil y profesional. Cualquier contribución o sugerencia para mejorar es siempre bienvenida.
 
-Gracias por usar esta guía y modificación para configurar Wiiflow.
+Gracias por usar esta guía y modificación para utilizar Wiiflow Retro.
 
 # Créditos
 
-- Creador y código fuente del WiiFlow Lite: https://github.com/Fledge68/WiiFlow_Lite
+- Creador y código fuente del WiiFlow Lite original: https://github.com/Fledge68/WiiFlow_Lite
 
 - Creadora del tema custom retro: https://gbatemp.net/threads/wiiflow-lite-theme-rhapsodii.511833/
 
